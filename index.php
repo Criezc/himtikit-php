@@ -299,7 +299,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         </picture>
         <h1 class="icon-default">BINUS MOBILE<br />For Students</h1>
       </a>
-      <a href="#" title="java" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://www.oracle.com/java/technologies/downloads/" title="java" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/java.webp" />
           <source type="image/png" srcset="./images/icon/java.png" />
@@ -307,7 +307,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         </picture>
         <h1 class="icon-default">Java JDK</h1>
       </a>
-      <a href="#" title="DEV C" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://www.bloodshed.net/" title="DEV C" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/devc.webp" />
           <source type="image/png" srcset="./images/icon/devc.png" />
@@ -316,7 +316,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         </picture>
         <h1 class="icon-default">DEV C++<br />(Orwell)</h1>
       </a>
-      <a href="#" title="ATOM" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://atom.io/" title="ATOM" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/atom.webp" />
           <source type="image/png" srcset="./images/icon/atom.png" />
@@ -324,7 +324,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         </picture>
         <h1 class="icon-default">ATOM</h1>
       </a>
-      <a href="#" title="MS-Team" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://www.microsoft.com/en-us/microsoft-teams/download-app" title="MS-Team" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/msteam.webp" />
           <source type="image/png" srcset="./images/icon/msteam.png" />
@@ -339,7 +339,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
           Teams
         </h1>
       </a>
-      <a href="#" title="M Outlook" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://outlook.live.com/owa/" title="M Outlook" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/outlook.webp" />
           <source type="image/png" srcset="./images/icon/outlook.png" />
@@ -354,7 +354,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
           Outlook
         </h1>
       </a>
-      <a href="#" title="Python" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://www.python.org/downloads/" title="Python" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/python.webp" />
           <source type="image/png" srcset="./images/icon/python.png" />
@@ -366,7 +366,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         </picture>
         <h1 class="icon-default">Python</h1>
       </a>
-      <a href="#" title="Node.Js" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://nodejs.org/en/download/" title="Node.Js" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/node.webp" />
           <source type="image/png" srcset="./images/icon/node.png" />
@@ -374,7 +374,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         </picture>
         <h1 class="icon-default">Node</h1>
       </a>
-      <a href="#" title="ECLIPSE" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://www.eclipse.org/downloads/" title="ECLIPSE" rel="noreferrer noopener" class="icon-bg">
         <source
           type="image/webp"
           srcset="./images/icon/eclipse_adobespark.webp"
@@ -390,7 +390,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         />
         <h1 class="icon-default">Eclipse</h1>
       </a>
-      <a href="#" title="xcode" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://developer.apple.com/xcode/" title="xcode" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/xcode.webp" />
           <source type="image/png" srcset="./images/icon/xcode.png" />
@@ -402,7 +402,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         </picture>
         <h1 class="icon-default">Xcode</h1>
       </a>
-      <a href="#" title="Geany" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://www.geany.org/" title="Geany" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/ico" srcset="./images/icon/geany.ico" />
           <img
@@ -413,7 +413,7 @@ $user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : false;
         </picture>
         <h1 class="icon-default">Geany</h1>
       </a>
-      <a href="#" title="VS code" rel="noreferrer noopener" class="icon-bg">
+      <a href="https://code.visualstudio.com/" title="VS code" rel="noreferrer noopener" class="icon-bg">
         <picture>
           <source type="image/webp" srcset="./images/icon/vscode.webp" />
           <source type="image/png" srcset="./images/icon/vscode.png" />
